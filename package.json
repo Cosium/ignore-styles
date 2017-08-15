@@ -1,6 +1,9 @@
 {
-  "name": "ignore-styles",
+  "name": "@cosium-fork/ignore-styles",
   "version": "5.0.1",
+  "publishConfig": {
+    "registry": "https://npm.cosium.com"
+  },
   "description": "Ignore imported style files when running in Node",
   "main": "lib/ignore-styles.js",
   "scripts": {
